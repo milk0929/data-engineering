@@ -1,0 +1,9 @@
+{
+	"name": "rpanadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d463c7d-f93c-4249-8102-278576584839",
+		"tenantId": "f41780d7-2cdd-4f5f-bb8c-e150386bd469"
+	}
+}
